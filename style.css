@@ -1,0 +1,113 @@
+body {
+	font-family: arial;
+	margin: 0;
+	height: 100%;
+}
+
+#apps, #not, #profile	 {
+	width: 20px;
+	height 10px;
+	border-radius: 50%;
+
+}
+
+
+
+.topnav {
+	list-style-type: none;
+	font-size: 15px;
+	text-align: right;
+	padding: 5px 15px 0 0;
+
+}
+
+
+#gmail, #images {
+	padding: 5px 5px 20px 5px ;
+	text-decoration: none;
+	
+}
+
+
+#gmail:hover, #images:hover {
+	text-decoration: underline;
+	cursor: pointer;
+	color: blue;
+	
+}
+
+#logo {
+border-radius: 50%;
+width: 300px;
+height: 130px;
+margin: auto;
+display: block;
+position: relative;
+
+}
+
+#search {
+width: 400px;
+height: 10px;
+padding: 10px;
+position: relative;
+left: 8em;
+}
+
+
+.button1 {
+	position: relative;
+	top: 4em;
+	right: 5em;
+
+  }
+
+
+
+.button2 {
+	position: relative;
+    top: 4em;
+    left: -25em;
+  }
+
+
+
+#settings, #terms, #privacy, #Advertising, #Business, #About
+
+ {
+	padding: 5px 5px 20px 5px ;
+	text-decoration: none;
+	
+}
+
+
+#settings:hover, #terms:hover, #privacy:hover, #Advertising:hover, #Business:hover, #About:hover
+ {
+	text-decoration: underline;
+	cursor: pointer;
+	color: blue;
+	
+}
+
+
+
+
+#lr {
+		position: relative;
+	font-size: 15px;
+	text-align: right;
+	top: 20em;
+}
+
+
+#ll {
+		position: relative;
+	font-size: 15px;
+	text-align: left;
+	top: 18em;
+	
+}
+
+.footer {
+background-color: none;
+}
